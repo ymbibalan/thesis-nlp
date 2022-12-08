@@ -1,0 +1,6 @@
+model/
+test_trainer/
+tmp_trainer/
+log/
+.ipynb_checkpoints/
+tokenizer/
